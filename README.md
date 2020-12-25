@@ -5,3 +5,4 @@
 📫 Reach me through **[LinkedIn](https://www.linkedin.com/in/adarshya/)** or **[Mail](mailto:adarshyahari@gmail.com)** <br>
 ⚡ I also _dabble_ in Web Design, Digital Art, and Creative Writing <br>
 <h4 align="center">✨Always on the look out for learning opportunities✨</h4> 
+<h4 align="center"><img src="techstacks.png" width=600px></h4>
